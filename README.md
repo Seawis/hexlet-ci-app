@@ -35,4 +35,4 @@ This repository is created and maintained by the team and the community of Hexle
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
-[![hexlet-ci-app](https://github.com/Seawis/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml/badge.svg)](https://github.com/Seawis/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml)
+[![hexlet-ci-app](https://github.com/Seawis/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml/badge.svg)](https://github.com/Seawis/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml) [![Node CI](https://github.com/Seawis/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/Seawis/hexlet-ci-app/actions/workflows/main.yml)
